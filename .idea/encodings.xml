@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/One.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Struct.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Test.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Two.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/main.cpp" charset="UTF-8" />
+  </component>
+</project>
